@@ -39,7 +39,7 @@ I am a **MERN Stack Developer** specializing in building **full-stack web applic
 
 - ✨ Fun Fact
 - 💡 Did you know? I love building creative web solutions and sharing my knowledge with the world!
-- I love learning **new technologies, and contributing to **open-source projects**.
+- I love learning **new technologies**, and contributing to **open-source projects**.
 
 
 
