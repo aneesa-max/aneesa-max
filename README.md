@@ -10,7 +10,7 @@ I’m currently learning full-stack web development with a focus on the MERN sta
 > Tools, languages, and other things I am working with.
 <a href="https://github.com/aneesa-max/">
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,js,react,,nodejs,express,mongodb,git,github,vscode,chatgpt" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,js,react,,nodejs,express,mongodb,git,github,vscode" />
 </p>
 </a>
 
